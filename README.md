@@ -12,6 +12,7 @@ Use AI coding agents to speed up your build. These all have **free tiers**:
 |------|-----------|-------|----------|
 | **Google Antigravity** | Agent-first IDE by Google, describe a task, AI agents plan, code, test, and iterate for you. Built on VS Code, powered by Gemini 3 Pro. Has a Mission Control "Agent Manager" to run multiple agents in parallel. Also supports Claude Sonnet 4.5 & GPT-OSS. Mac/Win/Linux. | 100% free (public preview) | Rapid prototyping, vibe coding, "describe and ship" style building |
 | **Claude Code** | Terminal-based AI agent by Anthropic | Free tier available | Deep reasoning, multi-file edits |
+| **Free Claude Code** | Check this awesome project https://github.com/Alishahryar1/free-claude-code | Free tier available | Deep reasoning, multi-file edits |
 | **Cursor** | VS Code fork with built-in AI agent | Free tier | Full IDE experience, most popular among devs |
 | **Cline** | Open-source AI coding agent (VS Code extension) | 100% free & open-source | Privacy-conscious devs, BYO API key |
 | **GitHub Copilot** | AI pair programmer in your IDE | Free for students & open-source | Autocomplete + agent mode |
